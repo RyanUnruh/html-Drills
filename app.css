@@ -1,0 +1,21 @@
+img {
+    height: 250px;
+  background: transparent no-repeat center;
+  background-size: cover;
+}
+
+body {
+    background-color: #333333;
+}
+p,table, h1, h2,h3, h4, h5, h6,ul,ol {
+    color: #f1f1f1;
+}
+
+.links {
+    color: skyblue;
+}
+
+input, label, button {
+    display: block;
+
+}
